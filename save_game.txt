@@ -1,0 +1,14 @@
+---
+:word: cumulative
+:incorrect:
+- r
+- p
+- q
+- s
+- o
+:correct:
+- a
+- e
+- t
+- l
+- t
